@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NFCat</string>
+    <string name="img_aguardando_leitura">Imagem de um cartão NFC com animação de transmissão.</string>
+
+    <string name="tag_conteudo">(Conteúdo da Tag)</string>
+    <string name="tag_rotulo_conteudo">Conteúdo do cartão</string>
+    <string name="btn_desc_voltar_leitor">Toque para voltar e ler outro cartão.</string>
+    <string name="tag_leitura_vazia">Os dados da leitura não foram processados corretamente.</string>
+
+    <string name="nfc_aguardando_leitura">Aproxime\no cartão do leitor…</string>
+    <string name="nfc_indisponivel">Desculpe,\nseu dispositivo não tem suporte a NFC.</string>
+    <string name="nfc_desabilitado">Sensor NFC desligado.\nLigue-o para continuar.</string>
+    <string name="nfc_iniciando">Iniciando…</string>
+    <string name="btn_desc_tech_list">Lista de tecnologias disponíveis</string>
+
+    <string name="tab_tech_list">Tecnologias</string>
+    <string name="tab_content_info">Conteúdo</string>
+</resources>
